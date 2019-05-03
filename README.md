@@ -1,2 +1,12 @@
-# puzzles-and-puppies
-A school project creating a playable game
+#puzzles and puppies
+Lets do this chicos
+
+##These are the classes
+OrbColor
+Entity
+Enemy
+Dog
+Orb
+Puzzle
+Quest
+PuzzleTester
